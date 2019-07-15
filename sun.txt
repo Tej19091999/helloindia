@@ -4,5 +4,7 @@ welcome to sun home
  java
  python 
  
+ j2ee 
+ j2me
  
 thank you 
